@@ -9,6 +9,7 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@aws-amplify/ui-react-native": "^2.6.5",
     "aws-amplify": "^6.16.2",
     "expo": "~54.0.33",
     "expo-status-bar": "~3.0.9",
